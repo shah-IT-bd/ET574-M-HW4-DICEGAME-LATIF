@@ -1,6 +1,6 @@
 """
 main.py - ET574 Homework 4: Dice Game Simulator
-Author: Shahnaj Latif (QCC ID: <your-id-here>)
+Author: Shahnaj Latif (QCC ID:23848861)
 
 Implements a simple two-dice game with object-oriented design and a console UI.
 Classes:
